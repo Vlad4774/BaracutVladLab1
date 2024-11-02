@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mssql1": {
-      "type": "mssql",
-      "connectionId": "ConnectionStrings:Baracut_Vlad_Alexandru_Lab2Context"
-    }
-  }
-}
